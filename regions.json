@@ -5,440 +5,438 @@
         "fullName": "Global",
         "code": "Global",
         "public": true,
-        "zones": [
-
-        ],
+        "zones": [],
         "coordinate": {
             "latitude": null,
             "longitude": null
         }
     },
-	{
-		"name": "N. Virginia",
+    {
+        "name": "N. Virginia",
         "key": "USE1",
-		"fullName": "US East (N. Virginia)",
-		"code": "us-east-1",
-		"public": true,
-		"zones": [
-			"us-east-1a",
-			"us-east-1b",
-			"us-east-1c",
-			"us-east-1d",
-			"us-east-1e",
-			"us-east-1f"
-		],
+        "fullName": "US East (N. Virginia)",
+        "code": "us-east-1",
+        "public": true,
+        "zones": [
+            "us-east-1a",
+            "us-east-1b",
+            "us-east-1c",
+            "us-east-1d",
+            "us-east-1e",
+            "us-east-1f"
+        ],
         "coordinates": {
             "longitude": -90.20607,
             "latitude": 39.94600
         }
-	},
-	{
-		"name": "Ohio",
+    },
+    {
+        "name": "Ohio",
         "key": "USE2",
-		"fullName": "US East (Ohio)",
-		"code": "us-east-2",
-		"public": true,
-		"zones": [
-			"us-east-2a",
-			"us-east-2b",
-			"us-east-2c"
-		],
+        "fullName": "US East (Ohio)",
+        "code": "us-east-2",
+        "public": true,
+        "zones": [
+            "us-east-2a",
+            "us-east-2b",
+            "us-east-2c"
+        ],
         "coordinates": {
             "longitude": -82.99,
             "latitude": 40.36
         }
-	},
-	{
-		"name": "N. California",
+    },
+    {
+        "name": "N. California",
         "key": "USW1",
-		"fullName": "US West (N. California)",
-		"code": "us-west-1",
-		"public": true,
-		"zone_limit": 2,
-		"zones": [
-			"us-west-1a",
-			"us-west-1b",
-			"us-west-1c"
-		],
+        "fullName": "US West (N. California)",
+        "code": "us-west-1",
+        "public": true,
+        "zone_limit": 2,
+        "zones": [
+            "us-west-1a",
+            "us-west-1b",
+            "us-west-1c"
+        ],
         "coordinates": {
             "longitude": -119.41,
             "latitude": 36.77
         }
-	},
-	{
-		"name": "Oregon",
+    },
+    {
+        "name": "Oregon",
         "key": "USW2",
-		"fullName": "US West (Oregon)",
-		"code": "us-west-2",
-		"public": true,
-		"zones": [
-			"us-west-2a",
-			"us-west-2b",
-			"us-west-2c",
-			"us-west-2d"
-		],
+        "fullName": "US West (Oregon)",
+        "code": "us-west-2",
+        "public": true,
+        "zones": [
+            "us-west-2a",
+            "us-west-2b",
+            "us-west-2c",
+            "us-west-2d"
+        ],
         "coordinates": {
             "longitude": -124.11,
             "latitude": 44.18
         }
-	},
-	{
-		"name": "GovCloud West",
+    },
+    {
+        "name": "GovCloud West",
         "key": "UGW1",
-		"fullName": "AWS GovCloud (US)",
-		"code": "us-gov-west-1",
-		"public": false,
-		"zones": [
-			"us-gov-west-1a",
-			"us-gov-west-1b",
-			"us-gov-west-1c"
-		],
+        "fullName": "AWS GovCloud (US)",
+        "code": "us-gov-west-1",
+        "public": false,
+        "zones": [
+            "us-gov-west-1a",
+            "us-gov-west-1b",
+            "us-gov-west-1c"
+        ],
         "coordinates": {
             "longitude": -97.09434,
             "latitude": 31.78395
         }
-	},
-	{
-		"name": "GovCloud East",
+    },
+    {
+        "name": "GovCloud East",
         "key": "UGE1",
-		"fullName": "AWS GovCloud (US-East)",
-		"code": "us-gov-east-1",
-		"public": false,
-		"zones": [
-			"us-gov-east-1a",
-			"us-gov-east-1b",
-			"us-gov-east-1c"
-		],
+        "fullName": "AWS GovCloud (US-East)",
+        "code": "us-gov-east-1",
+        "public": false,
+        "zones": [
+            "us-gov-east-1a",
+            "us-gov-east-1b",
+            "us-gov-east-1c"
+        ],
         "coordinates": {
             "longitude": -109.99673,
             "latitude": 53.26630
         }
-	},
-	{
-		"name": "Canada",
+    },
+    {
+        "name": "Canada",
         "key": "CAN1",
-		"fullName": "Canada (Central)",
-		"code": "ca-central-1",
-		"public": true,
-		"zones": [
-			"ca-central-1a",
-			"ca-central-1b",
-			"ca-central-1c",
-			"ca-central-1d"
-		],
+        "fullName": "Canada (Central)",
+        "code": "ca-central-1",
+        "public": true,
+        "zones": [
+            "ca-central-1a",
+            "ca-central-1b",
+            "ca-central-1c",
+            "ca-central-1d"
+        ],
         "coordinates": {
             "longitude": -106.34,
             "latitude": 56.13
         }
-	},
-	{
-		"name": "Stockholm",
+    },
+    {
+        "name": "Stockholm",
         "key": "EUN1",
-		"fullName": "EU (Stockholm)",
-		"code": "eu-north-1",
-		"public": true,
-		"zones": [
-			"eu-north-1a",
-			"eu-north-1b",
-			"eu-north-1c"
-		],
+        "fullName": "EU (Stockholm)",
+        "code": "eu-north-1",
+        "public": true,
+        "zones": [
+            "eu-north-1a",
+            "eu-north-1b",
+            "eu-north-1c"
+        ],
         "coordinates": {
             "longitude": 18.04856,
             "latitude": 59.33097
         }
-	},
-	{
-		"name": "Ireland",
+    },
+    {
+        "name": "Ireland",
         "key": "EUW1",
-		"fullName": "EU (Ireland)",
-		"code": "eu-west-1",
-		"public": true,
-		"zones": [
-			"eu-west-1a",
-			"eu-west-1b",
-			"eu-west-1c"
-		],
+        "fullName": "EU (Ireland)",
+        "code": "eu-west-1",
+        "public": true,
+        "zones": [
+            "eu-west-1a",
+            "eu-west-1b",
+            "eu-west-1c"
+        ],
         "coordinates": {
             "longitude": -6.26,
             "latitude": 53.35
         }
-	},
-	{
-		"name": "London",
+    },
+    {
+        "name": "London",
         "key": "EUW2",
-		"fullName": "EU (London)",
-		"code": "eu-west-2",
-		"public": true,
-		"zones": [
-			"eu-west-2a",
-			"eu-west-2b",
-			"eu-west-2c"
-		],
+        "fullName": "EU (London)",
+        "code": "eu-west-2",
+        "public": true,
+        "zones": [
+            "eu-west-2a",
+            "eu-west-2b",
+            "eu-west-2c"
+        ],
         "coordinates": {
             "longitude": -0.11,
             "latitude": 51.50
         }
-	},
-	{
-		"name": "Paris",
+    },
+    {
+        "name": "Paris",
         "key": "EUW3",
-		"fullName": "EU (Paris)",
-		"code": "eu-west-3",
-		"public": true,
-		"zones": [
-			"eu-west-3a",
-			"eu-west-3b",
-			"eu-west-3c"
-		],
+        "fullName": "EU (Paris)",
+        "code": "eu-west-3",
+        "public": true,
+        "zones": [
+            "eu-west-3a",
+            "eu-west-3b",
+            "eu-west-3c"
+        ],
         "coordinates": {
             "longitude": 2.34,
             "latitude": 48.86
         }
-	},
-	{
-		"name": "Frankfurt",
+    },
+    {
+        "name": "Frankfurt",
         "key": "EUC1",
-		"fullName": "EU (Frankfurt)",
-		"code": "eu-central-1",
-		"public": true,
-		"zones": [
-			"eu-central-1a",
-			"eu-central-1b",
-			"eu-central-1c"
-		],
+        "fullName": "EU (Frankfurt)",
+        "code": "eu-central-1",
+        "public": true,
+        "zones": [
+            "eu-central-1a",
+            "eu-central-1b",
+            "eu-central-1c"
+        ],
         "coordinates": {
             "longitude": 8.68,
             "latitude": 50.11
         }
-	},
-	{
-		"name": "Milan",
+    },
+    {
+        "name": "Milan",
         "key": "EUS1",
-		"fullName": "EU (Milan)",
-		"code": "eu-south-1",
-		"public": true,
-		"zones": [
-			"eu-south-1a",
-			"eu-south-1b",
-			"eu-south-1c"
-		],
+        "fullName": "EU (Milan)",
+        "code": "eu-south-1",
+        "public": true,
+        "zones": [
+            "eu-south-1a",
+            "eu-south-1b",
+            "eu-south-1c"
+        ],
         "coordinates": {
             "longitude": 9.188540,
             "latitude": 45.464664
         }
-	},
-	{
-		"name": "Cape Town",
+    },
+    {
+        "name": "Cape Town",
         "key": "AFS1",
-		"fullName": "Africa (Cape Town)",
-		"code": "af-south-1",
-		"public": true,
-		"zones": [
-			"af-south-1a",
-			"af-south-1b",
-			"af-south-1c"
-		],
+        "fullName": "Africa (Cape Town)",
+        "code": "af-south-1",
+        "public": true,
+        "zones": [
+            "af-south-1a",
+            "af-south-1b",
+            "af-south-1c"
+        ],
         "coordinates": {
             "longitude": 18.459778,
             "latitude": -34.270836
         }
-	},
-	{
-		"name": "Tokyo",
+    },
+    {
+        "name": "Tokyo",
         "key": "APN1",
-		"fullName": "Asia Pacific (Tokyo)",
-		"code": "ap-northeast-1",
-		"public": true,
-		"zone_limit": 3,
-		"zones": [
-			"ap-northeast-1a",
-			"ap-northeast-1b",
-			"ap-northeast-1c",
-			"ap-northeast-1d"
-		],
+        "fullName": "Asia Pacific (Tokyo)",
+        "code": "ap-northeast-1",
+        "public": true,
+        "zone_limit": 3,
+        "zones": [
+            "ap-northeast-1a",
+            "ap-northeast-1b",
+            "ap-northeast-1c",
+            "ap-northeast-1d"
+        ],
         "coordinates": {
             "longitude": 139.83,
             "latitude": 35.65
         }
-	},
-	{
-		"name": "Seoul",
+    },
+    {
+        "name": "Seoul",
         "key": "APN2",
-		"fullName": "Asia Pacific (Seoul)",
-		"code": "ap-northeast-2",
-		"public": true,
-		"zones": [
-			"ap-northeast-2a",
-			"ap-northeast-2b",
-			"ap-northeast-2c",
-			"ap-northeast-2d"
-		],
+        "fullName": "Asia Pacific (Seoul)",
+        "code": "ap-northeast-2",
+        "public": true,
+        "zones": [
+            "ap-northeast-2a",
+            "ap-northeast-2b",
+            "ap-northeast-2c",
+            "ap-northeast-2d"
+        ],
         "coordinates": {
             "longitude": 127.02,
             "latitude": 37.53
         }
-	},
-	{
-		"name": "Osaka",
+    },
+    {
+        "name": "Osaka",
         "key": "APN3",
-		"fullName": "Asia Pacific (Osaka-Local)",
-		"code": "ap-northeast-3",
-		"public": true,
-		"zones": [
-			"ap-northeast-3a",
-			"ap-northeast-3b",
-			"ap-northeast-3c"
-		],
+        "fullName": "Asia Pacific (Osaka-Local)",
+        "code": "ap-northeast-3",
+        "public": true,
+        "zones": [
+            "ap-northeast-3a",
+            "ap-northeast-3b",
+            "ap-northeast-3c"
+        ],
         "coordinates": {
             "longitude": 135.50,
             "latitude": 34.65
         }
-	},
-	{
-		"name": "Singapore",
+    },
+    {
+        "name": "Singapore",
         "key": "APS1",
-		"fullName": "Asia Pacific (Singapore)",
-		"code": "ap-southeast-1",
-		"public": true,
-		"zones": [
-			"ap-southeast-1a",
-			"ap-southeast-1b",
-			"ap-southeast-1c"
-		],
+        "fullName": "Asia Pacific (Singapore)",
+        "code": "ap-southeast-1",
+        "public": true,
+        "zones": [
+            "ap-southeast-1a",
+            "ap-southeast-1b",
+            "ap-southeast-1c"
+        ],
         "coordinates": {
             "longitude": 103.85,
             "latitude": 1.29
         }
-	},
-	{
-		"name": "Sydney",
+    },
+    {
+        "name": "Sydney",
         "key": "APS2",
-		"fullName": "Asia Pacific (Sydney)",
-		"code": "ap-southeast-2",
-		"public": true,
-		"zones": [
-			"ap-southeast-2a",
-			"ap-southeast-2b",
-			"ap-southeast-2c"
-		],
+        "fullName": "Asia Pacific (Sydney)",
+        "code": "ap-southeast-2",
+        "public": true,
+        "zones": [
+            "ap-southeast-2a",
+            "ap-southeast-2b",
+            "ap-southeast-2c"
+        ],
         "coordinates": {
             "longitude": 151.20,
             "latitude": -33.87
         }
-	},
-	{
-		"name": "Jakarta",
+    },
+    {
+        "name": "Jakarta",
         "key": "APS4",
-		"fullName": "Asia Pacific (Jakarta)",
-		"code": "ap-southeast-3",
-		"public": true,
-		"zones": [
-			"ap-southeast-3a",
-			"ap-southeast-3b",
-			"ap-southeast-3c"
-		],
+        "fullName": "Asia Pacific (Jakarta)",
+        "code": "ap-southeast-3",
+        "public": true,
+        "zones": [
+            "ap-southeast-3a",
+            "ap-southeast-3b",
+            "ap-southeast-3c"
+        ],
         "coordinates": {
             "longitude": 106.816666,
             "latitude": -6.200000
         }
-	},
-	{
-		"name": "Hong Kong",
+    },
+    {
+        "name": "Hong Kong",
         "key": "APE1",
-		"fullName": "Asia Pacific (Hong Kong)",
-		"code": "ap-east-1",
-		"public": true,
-		"zones": [
-			"ap-east-1a",
-			"ap-east-1b",
-			"ap-east-1c"
-		],
+        "fullName": "Asia Pacific (Hong Kong)",
+        "code": "ap-east-1",
+        "public": true,
+        "zones": [
+            "ap-east-1a",
+            "ap-east-1b",
+            "ap-east-1c"
+        ],
         "coordinates": {
             "longitude": 114.13624,
             "latitude": 22.25424
         }
-	},
-	{
-		"name": "Mumbai",
+    },
+    {
+        "name": "Mumbai",
         "key": "APS3",
-		"fullName": "Asia Pacific (Mumbai)",
-		"code": "ap-south-1",
-		"public": true,
-		"zones": [
-			"ap-south-1a",
-			"ap-south-1b",
-			"ap-south-1c"
-		],
+        "fullName": "Asia Pacific (Mumbai)",
+        "code": "ap-south-1",
+        "public": true,
+        "zones": [
+            "ap-south-1a",
+            "ap-south-1b",
+            "ap-south-1c"
+        ],
         "coordinates": {
             "longitude": 72.85,
             "latitude": 19.22
         }
-	},
-	{
-		"name": "São Paulo",
+    },
+    {
+        "name": "São Paulo",
         "key": "SAE1",
-		"fullName": "South America (São Paulo)",
-		"code": "sa-east-1",
-		"public": true,
-		"zone_limit": 2,
-		"zones": [
-			"sa-east-1a",
-			"sa-east-1b",
-			"sa-east-1c"
-		],
-       "coordinates": {
+        "fullName": "South America (São Paulo)",
+        "code": "sa-east-1",
+        "public": true,
+        "zone_limit": 2,
+        "zones": [
+            "sa-east-1a",
+            "sa-east-1b",
+            "sa-east-1c"
+        ],
+        "coordinates": {
             "longitude": -46.62,
             "latitude": -23.53
         }
-	},
-	{
-		"name": "Bahrain",
+    },
+    {
+        "name": "Bahrain",
         "key": "MES1",
-		"fullName": "Middle East (Bahrain)",
-		"code": "me-south-1",
-		"public": true,
-		"zones": [
-			"me-south-1a",
-			"me-south-1b",
-			"me-south-1c"
-		],
+        "fullName": "Middle East (Bahrain)",
+        "code": "me-south-1",
+        "public": true,
+        "zones": [
+            "me-south-1a",
+            "me-south-1b",
+            "me-south-1c"
+        ],
         "coordinates": {
             "longitude": 25.9304142,
             "latitude": 50.6377716
         }
-	},
-	{
-		"name": "Beijing",
+    },
+    {
+        "name": "Beijing",
         "key": "CNN1",
-		"fullName": "China (Beijing)",
-		"code": "cn-north-1",
-		"public": false,
-		"zones": [
-			"cn-north-1a",
-			"cn-north-1b",
-			"cn-north-1c"
-		],
+        "fullName": "China (Beijing)",
+        "code": "cn-north-1",
+        "public": false,
+        "zones": [
+            "cn-north-1a",
+            "cn-north-1b",
+            "cn-north-1c"
+        ],
         "coordinates": {
             "longitude": 116.38570,
             "latitude": 39.90388
         }
-	},
-	{
-		"name": "Ningxia",
+    },
+    {
+        "name": "Ningxia",
         "key": "CNW1",
-		"fullName": "China (Ningxia)",
-		"code": "cn-northwest-1",
-		"public": false,
-		"zones": [
-			"cn-northwest-1a",
-			"cn-northwest-1b",
-			"cn-northwest-1c"
-		],
+        "fullName": "China (Ningxia)",
+        "code": "cn-northwest-1",
+        "public": false,
+        "zones": [
+            "cn-northwest-1a",
+            "cn-northwest-1b",
+            "cn-northwest-1c"
+        ],
         "coordinates": {
             "longitude": 106.249290,
             "latitude": 38.488800
         }
-	},
+    },
     {
         "name": "Ireland",
         "key": "EU",
