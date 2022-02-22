@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Europe CDN",
+        "key": "EU",
+        "fullName": "Europe CDN",
+        "code": "eu-west-1",
+        "coordinates": {
+            "latitude": 53.35,
+            "longitude": -6.26
+        }
+    },
+    {
+        "name": "Asia Pacific CDN",
+        "key": "AP",
+        "fullName": "Asia Pacific CDN",
+        "code": "ap-southeast-1",
+        "coordinates": {
+            "latitude": 1.29,
+            "longitude": 103.85
+        }
+    },
+    {
+        "name": "United States CDN",
+        "key": "US",
+        "fullName": "United States CDN",
+        "code": "ap-southeast-1",
+        "coordinates": {
+            "latitude": 39.02,
+            "longitude": -76.92
+        }
+    },
+    {
+        "name": "Japan CDN",
+        "key": "JP",
+        "fullName": "Japan CDN",
+        "code": "ap-northeast-1",
+        "coordinates": {
+            "latitude": 34.65,
+            "longitude": 135.50
+        }
+    },
+    {
+        "name": "South America CDN",
+        "key": "SA",
+        "fullName": "South America CDN",
+        "code": "sa-east-1",
+        "coordinates": {
+            "latitude": -23.53,
+            "longitude": -46.62
+        }
+    },
+    {
+        "name": "Canada CDN",
+        "key": "CA",
+        "fullName": "Canada CDN",
+        "code": "sa-east-1",
+        "coordinates": {
+            "latitude": 56.13,
+            "longitude": -106.34
+        }
+    },
+    {
+        "name": "India CDN",
+        "key": "IN",
+        "fullName": "India CDN",
+        "code": "ap-south-1",
+        "coordinates": {
+            "latitude": 19.22,
+            "longitude": 72.85
+        }
+    },
+    {
+        "name": "Australia CDN",
+        "key": "AU",
+        "fullName": "Australia CDN",
+        "code": "ap-southeast-2",
+        "coordinates": {
+            "latitude": -33.87,
+            "longitude": 151.20
+        }
+    },
+    {
+        "name": "Europe CDN",
+        "key": "EUCDN",
+        "fullName": "Europe CDN",
+        "code": "eu-west-1",
+        "coordinates": {
+            "latitude": 48.13,
+            "longitude": 11.57
+        }
+    },
+    {
+        "name": "South Africa CDN",
+        "key": "ZA",
+        "fullName": "South Africa CDN",
+        "code": "eu-west-2",
+        "coordinates": {
+            "latitude": -26.19,
+            "longitude": 28.03
+        }
+    },
+    {
+        "name": "Middle East CDN",
+        "key": "ME",
+        "fullName": "Middle East CDN",
+        "code": "me",
+        "coordinates": {
+            "latitude": 25.50,
+            "longitude": -100.00
+        }
+    }
+]
